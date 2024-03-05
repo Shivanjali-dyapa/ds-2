@@ -6,6 +6,7 @@ Compile the singlelinkedlist.cpp and stack.cpp
 
 run the singlelinkedlist.cpp and stack.cpp
 
+singlelinkedlist.cpp OUTPUT SCREENSHOTS:
 
 ![sll1](https://github.com/Shivanjali-dyapa/ds-2/assets/159505432/2eecfe62-53fa-4c24-ae25-61a2fb638009)
 
@@ -15,7 +16,7 @@ run the singlelinkedlist.cpp and stack.cpp
 
 ![sll3](https://github.com/Shivanjali-dyapa/ds-2/assets/159505432/8001e20d-76e3-452b-b73b-736032fa5f00)
 
-
+stack.cpp OUTPUT SCREENSHOT:
 ![sll4](https://github.com/Shivanjali-dyapa/ds-2/assets/159505432/4de44944-9547-4bbf-9b88-81eedfae4b89)
 
 
